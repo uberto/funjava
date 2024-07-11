@@ -3,6 +3,7 @@ package com.ubertob.funjava;
 import org.springframework.stereotype.Service;
 
 import java.util.List;
+import java.util.Optional;
 
 @Service
 public class UserService {
@@ -15,5 +16,9 @@ public class UserService {
 
     public List<AppUser> getAllUsers() {
         return userRepository.findAll();
+    }
+
+    public Optional<AppUser> getUserById(Long id) {
+        return userRepository.findById(id);
     }
 }
