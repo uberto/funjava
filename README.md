@@ -1,2 +1,3 @@
 # funjava
-Make Java Fun(ctional)!
+Let's make Java Fun(ctional)!
+
