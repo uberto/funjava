@@ -1,0 +1,25 @@
+Issues:
+
+
+implicit controller
+implicit ui template
+user service/repository overlap
+mutable User
+db session implicit
+annotations driven DI
+optional.isPresent
+
+
+
+put all the correct stuff on pom as commented
+
+switch to webflux
+Show the 4 steps
+show how to create a function and combine, and then
+introduce View static class (or just put html functions)
+replace jpa with jooq? or otherwise just fake fun
+user as record
+remove UserService
+explain result/checked exceptions
+
+start it from main and remove annotations?
