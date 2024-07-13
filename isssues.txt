@@ -1,0 +1,9 @@
+Issues:
+
+implicit controller
+implicit ui template
+user service/repository overlap
+mutable User
+db session implicit
+annotations driven DI
+optional.isPresent

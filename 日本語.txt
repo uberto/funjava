@@ -1,0 +1,15 @@
+Explicit Vs implicit
+暗黙(あんもく)よりも明示(めいじ)
+
+Functions are transformations
+関数(かんすう)は変換(へんかん)です
+
+Pure Functions only use input and output
+純粋(じゅんすい)な関数は入力(にゅうりょく)と出力(しゅつりょく)だけ使います
+
+Functions are data
+関数(かんすう)はデータです
+
+
+関数型プログラミングのメリット
+banana, mental load, no magic, tests
